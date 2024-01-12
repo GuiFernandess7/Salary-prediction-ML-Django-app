@@ -1,1 +1,1 @@
-# Salary-prediction-ML-Django-app
+# Salary prediction ML Django app
