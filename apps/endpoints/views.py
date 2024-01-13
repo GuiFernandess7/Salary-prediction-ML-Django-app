@@ -25,7 +25,7 @@ from django.db import transaction
 from endpoints.models import ABTest
 from endpoints.serializers import ABTestSerializer
 from rest_framework.response import Response
-from ml.registry import MLRegistry
+#from ml.registry import MLRegistry
 from core.wsgi import registry
 import datetime
 
